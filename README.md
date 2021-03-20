@@ -23,3 +23,5 @@ This is ordered list:
 2. Second step.
  
 >>>>>>> 8755248a91295062c00981c66cbc84cbdbf47432
+
+Forking demo: Namrata has added this line.
